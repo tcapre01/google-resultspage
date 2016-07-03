@@ -1,0 +1,243 @@
+#logo{	
+	margin-top: 1.2em;
+	margin-left: 1.2em;
+	height: 2.35em;}
+
+#navbar{
+	display:inline-block;
+	position: relative;
+	padding-right: 1.6em;
+	margin-left: -0.7em;
+	margin-top: -0.7em;
+	font-family:Arial, serif;
+	font-size: 13px;
+	background-color: #f2f2f2;
+	border-bottom: 1px solid #d9d9d9;
+	width: 100%;
+	height: 4.65em;}
+
+#leftnav{
+	float:left;
+	display:inline-block;}
+
+#rightnav{
+	float:right;
+	margin-top: -3.2em;
+	margin-right: 1em;}
+
+#buttons{float:right;
+	margin-top: -0.2em;
+	margin-right: 1.3em;}
+
+#settingsbutton{	
+	height: 30px;
+	width: 70px;
+	border: 1px solid #d9d9d9;
+	border-radius: 2px;
+	box-shadow:none;}
+
+.publicprivate{
+	width:40px;
+	height:30px;
+	border: 1px solid #d9d9d9;
+	border-radius: 2px;
+	box-shadow:none;
+	margin-left:-1em;}
+
+button img{height:19px; padding-top: 3px;}
+
+#searchbar{
+	width: 34.7em;
+	height: 2em;
+	border: 1px solid #d9d9d9;
+	text-indent: 8px;
+	margin-left: 1.15em;
+	font-family: Arial;
+	font-size: 17px;
+	position: absolute;
+	margin-top: 0.7em;}
+
+#searchbar:hover{border-color: #a0a0a0;}
+#searchbar:focus{border-color: #4d90fe;}
+
+#searchbutton{
+	height: 3.1em;
+	margin-left: 47em;
+	margin-top: 0.8em;
+	border-top-right-radius: 2px;
+	border-bottom-right-radius: 2px;
+	position: absolute;}
+
+#notifications{
+	height: 20px;
+	margin-top: -3em;
+	display: inline-block;
+	vertical-align: 40%;}
+
+#googleplus{
+	height: 32px;
+	border-radius: 100%;
+	margin-left: 1.2em;
+	margin-top: 0.6em;}
+
+#apps{
+	height: 16px;
+	margin-right: 1.7em;
+	vertical-align: 55%}
+
+#resultsbar{
+	height: 2.5em;
+	display: inline-block;
+	width:1400px;
+	border-bottom: 1px solid #d9d9d9;
+	margin-left: -2.2em;
+	padding-left: 8.5em;
+	padding-top: 1.2em;
+	word-spacing: 0.5em;}
+
+#resultsbar a {
+	margin-left: 1.6em;
+	color: #757575;
+	font-family: Arial, serif;
+	font-size: 13px;
+	vertical-align:10%}
+
+#resultsbar a:hover {
+	color: #222;
+	text-decoration:none;}
+
+#searchtools{
+	word-spacing:  normal;
+	margin-left: 0.5em;}
+
+#resultsbar #all{
+	font-weight: 700;
+	color:#4d90fe;
+	padding-bottom: 1.5em;
+	border-bottom: 3px solid #4d90fe;
+	word-spacing:0.5em;
+	padding-left: 0.5em;}
+
+#searchdetails{
+	color: #757575;
+	font-family: Arial, serif;
+	font-size: 13px;
+	padding-left: 9.85em}
+
+#results{
+	width: 1200px;
+	margin: 1.5em 0 0 3em;
+	font-family: Arial, serif}
+
+.title a{
+	font-size: 18px;
+	color:#1a0dab;}
+
+.url{
+	color:#006621;
+	font-size: 14px;}
+
+.description{
+	color: #545454;
+	font-size: 13px;
+	width: 600px;
+	line-height: 1.4;}
+
+ul ul{margin: 0 0 1.4em 0;}
+li {list-style-type:none;}
+
+span{color:#808080}
+
+#relatedsearches {
+	font-family: Arial, serif;
+	margin-left: 7.5em;
+	border-top: 1px solid #d9d9d9;
+	border-bottom: 1px solid #d9d9d9;
+	width: 630px;
+	padding-left: 0.5em;}
+
+h3 {
+	color:#808080;
+	font-weight: normal;}
+
+#relatedsearches ul li{
+	padding-bottom: 7px;
+	font-size: 13px; }
+
+#relatedsearches ul {
+	display: inline-block;
+	margin-top:-0.4em;}
+
+#relatedsearches ul li a {
+	margin-left: -3em;
+	color:#1a0dab;}
+
+#gooogle{
+	margin-left: 17em;
+	margin-top:1.5em;
+	margin-bottom:1.5em;
+	width:1000px;}
+
+#gooogle img{
+	height: 2.3em;
+	margin-right: -0.2em;
+	margin-bottom: -0.5em;}
+
+#numbers{text-align: center;}
+
+td a{
+	color: #4285f4;
+	font-family:Arial, serif;
+	font-size: 13px;
+	margin-left: 0.2em;
+	margin-top: -1em;
+	padding-top: -1em;
+	text-decoration: none}
+
+#gooogle #one{
+	font-family:Arial, serif;
+	font-size: 12px;
+	text-align: right;
+	padding-right: 0.35em;}
+
+
+#footer {
+	display:inline-block;
+	position: relative;
+	background-color:#f2f2f2;
+	width: 1390px;
+	height: 5em;
+	border-top: 1px solid #d9d9d9;
+	padding-top: 0.3em;
+	padding-left: 8.5em;
+	margin-bottom: -0.6em;
+	margin-left: -0.5em;
+	margin-right: -0.}
+
+#footer a{
+	color: #757575;
+	font-family: Arial, serif;
+	font-size: 13px;
+	text-decoration: none}
+
+#top{
+	display: inline;
+	font-family: Arial, serif;
+	font-size: 13px;}
+
+#bottom{word-spacing: 1.7em;}
+#top p {color:#aaa}
+
+.google{word-spacing:  normal;}
+
+#bullet{
+	border-radius: 100%;
+    	display: inline-block;
+   	height: 10px;
+   	margin: 6px 4px 9px 0;
+   	vertical-align: middle;
+   	width: 10px;
+	background-color: #9e9e9e}
+
+#footer a:hover{color:#333}
+a{text-decoration:none;}
